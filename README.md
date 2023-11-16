@@ -31,6 +31,6 @@
 Для реализации достаточно Qt 5й версии. Проект должен быть на CMake.
 
 ![image](https://github.com/Ulyanushka/QTSearch_testHW/assets/71116920/dd03a569-1fff-4a35-bb36-9ca2f3a03b18)
-![image](https://github.com/Ulyanushka/QTSearch_testHW/assets/71116920/88be6409-d04f-42c0-a422-df02e4649106)
+![image](https://github.com/Ulyanushka/QTSearch_testHW/assets/71116920/51ed46db-2ddc-4959-8fd6-5d05fd492e2b)
 ![image](https://github.com/Ulyanushka/QTSearch_testHW/assets/71116920/3a3e026a-af1e-4001-ac6f-7709fe73c777)
 ![image](https://github.com/Ulyanushka/QTSearch_testHW/assets/71116920/2a72f97f-91ac-4941-8ae0-8d8657b6eae0)
